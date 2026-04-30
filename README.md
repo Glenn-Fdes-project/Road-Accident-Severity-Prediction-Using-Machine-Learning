@@ -15,10 +15,8 @@ The model classifies accident severity into 4 levels:
 
 ## 👤 Author
 - **Name:** Glenn Fernandes
-- **College:** Goa Business School, Goa University
-- **Department:** Discipline of Computer Science and Technology
-- **Subject:** Machine Learning Lab
-- **Guide:** Ms. Gaurpriya Chodanker
+
+  
 
 ---
 
